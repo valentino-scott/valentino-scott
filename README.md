@@ -33,16 +33,16 @@ Cybersecurity | Penetration Testing | Algorithmic Problem Solving | Actuarial Ap
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: **valentino@example.com**  
-- 🐦 Twitter: [@valentino_ke](https://twitter.com/valentino_ke)  
-- 🎵 TikTok: [@valentino_ke](https://www.tiktok.com/@valentino_ke)  
+- 📧 Email: **valentinoachira.com**  
+- 🐦 Twitter: [@valentinoachira](https://twitter.com/valentinoachira)  
+- 🎵 TikTok: [@valentinoachira](https://www.tiktok.com/@valentinoachira)  
 
 ---
 
 ## 📈 GitHub Stats
-![Valentino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentino-ke&show_icons=true&theme=tokyonight)  
+![Valentino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentino-scott&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentino-ke&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentino-scott&layout=compact&theme=tokyonight)
 
 ---
 
