@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Valentino (Scott)
 
-<!--
-**valentino-scott/valentino-scott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | Cybersecurity Enthusiast | Actuarial Science Student**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌍 From **Kenya**
+- 🎓 Pursuing a degree in **Actuarial Science**
+- 🔐 Exploring **Cybersecurity & Ethical Hacking**
+- 🛠 Skilled in **Python, C++, Bash, Django, and Fullstack Development**
+- ⚡ Passionate about building **secure, scalable, and modern applications**
+
+---
+
+## 🧑‍💻 Tech Stack
+**Languages:**  
+`Python` | `C++` | `Bash` | `JavaScript`  
+
+**Frameworks & Tools:**  
+`Django` | `Flask` | `Node.js` | `React` | `Git` | `Linux (Kali)`  
+
+**Other Interests:**  
+Cybersecurity | Penetration Testing | Algorithmic Problem Solving | Actuarial Applications  
+
+---
+
+## 📌 Featured Projects
+- 🔹 [**Personal Portfolio**](#) – A modern responsive portfolio website with theme toggle, animations, and offline-ready features  
+- 🔹 [**WiFi Billing System**](#) – Django backend + hostapd + M-Pesa integration  
+- 🔹 [**TradingView Market Predictor**](#) – Python + data analysis for trading signals  
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: **valentino@example.com**  
+- 🐦 Twitter: [@valentino_ke](https://twitter.com/valentino_ke)  
+- 🎵 TikTok: [@valentino_ke](https://www.tiktok.com/@valentino_ke)  
+
+---
+
+## 📈 GitHub Stats
+![Valentino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentino-ke&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentino-ke&layout=compact&theme=tokyonight)
+
+---
+
+✨ *"Code. Secure. Create."*
