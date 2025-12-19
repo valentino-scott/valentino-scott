@@ -18,7 +18,7 @@
 `Python` | `C++` | `Bash` | `JavaScript`  
 
 **Frameworks & Tools:**  
-`Django` | `Flask` | `Node.js` | `React` | `Git` | `Linux (Kali)`  
+ `NumPy` | `Pandas` |`Django` | `Flask` | `Node.js` | `React` | `Git` | `Linux (Kali)`  
 
 **Other Interests:**  
 Cybersecurity | Penetration Testing | Algorithmic Problem Solving | Actuarial Applications  
