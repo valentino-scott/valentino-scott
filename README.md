@@ -37,16 +37,16 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Modern Personal Portfolio Website](https://github.com/valentino-scott/portfolio)
+### 🔹 [Modern Personal Portfolio Website](https://github.com/valentino-scott)
 A responsive portfolio website with dark/light theme toggle, smooth animations, and offline-ready PWA features. Built with **HTML5, CSS3, and JavaScript**.
 
-### 🔹 [WiFi Billing System with M-Pesa Integration](https://github.com/valentino-scott/wifi-billing)
+### 🔹 [WiFi Billing System with M-Pesa Integration](https://github.com/valentino-scott)
 Complete billing solution for Kenyan hotspots: **Django backend** + hostapd + **M-Pesa API** integration for automatic payments and access control.
 
-### 🔹 [TradingView Market Predictor](https://github.com/valentino-scott/trading-predictor)
+### 🔹 [TradingView Market Predictor](https://github.com/valentino-scott)
 **Python-based** trading signal generator using technical analysis and machine learning. Integrates with TradingView for real-time market data.
 
-### 🔹 [Actuarial Risk Calculator](https://github.com/valentino-scott/actuarial-tools)
+### 🔹 [Actuarial Risk Calculator](https://github.com/valentino-scott)
 Open-source tools for **actuarial calculations**: mortality tables, premium calculations, and risk assessment models in Python.
 
 ---
@@ -81,8 +81,8 @@ Open-source tools for **actuarial calculations**: mortality tables, premium calc
 ---
 
 ## 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=valentino-scott&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=valentino-scott&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 📌 Quick Links to My Work
