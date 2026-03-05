@@ -37,16 +37,16 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Modern Personal Portfolio Website](https://github.com/valentino-scott)
+### 🔹 [Modern Personal Portfolio Website](https://github.com/valentino-scott?tab=repositories)
 A responsive portfolio website with dark/light theme toggle, smooth animations, and offline-ready PWA features. Built with **HTML5, CSS3, and JavaScript**.
 
-### 🔹 [WiFi Billing System with M-Pesa Integration](https://github.com/valentino-scott)
+### 🔹 [WiFi Billing System with M-Pesa Integration](https://github.com/valentino-scott?tab=repositories)
 Complete billing solution for Kenyan hotspots: **Django backend** + hostapd + **M-Pesa API** integration for automatic payments and access control.
 
-### 🔹 [TradingView Market Predictor](https://github.com/valentino-scott)
+### 🔹 [TradingView Market Predictor](https://github.com/valentino-scott?tab=repositories)
 **Python-based** trading signal generator using technical analysis and machine learning. Integrates with TradingView for real-time market data.
 
-### 🔹 [Actuarial Risk Calculator](https://github.com/valentino-scott)
+### 🔹 [Actuarial Risk Calculator](https://github.com/valentino-scott?tab=repositories)
 Open-source tools for **actuarial calculations**: mortality tables, premium calculations, and risk assessment models in Python.
 
 ---
