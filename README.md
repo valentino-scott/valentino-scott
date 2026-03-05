@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Valentino (Scott) - Full Stack Developer & Cybersecurity Enthusiast in Kenya
 
 💻 **Full-Stack Developer** | **Cybersecurity Enthusiast** | **Actuarial Science Student** | **Python Developer** | **Django Expert**
-
+<meta name="google-site-verification" content="w3dnISIlwYenOHYUSk-6CChOg8PP4HCPryKTeS-1Djk" />
 ---
 
 ## 🚀 About Me
