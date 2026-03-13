@@ -1,99 +1,239 @@
-# 👋 Hi, I'm Valentino (Scott) - Full Stack Developer & Cybersecurity Enthusiast in Kenya
+<p align="center">
+  <img src="https://valentinoachira.site/images/github-banner.png" alt="Valentino Achira Banner" />
+</p>
 
-💻 **Full-Stack Developer** | **Cybersecurity Enthusiast** | **Actuarial Science Student** | **Python Developer** | **Django Expert**
+<div align="center">
 
----
+# **Hi, I'm Valentino Achira**
 
-## 🚀 About Me
-- 🌍 Based in **Nairobi, Kenya** - Available for remote collaboration
-- 🎓 Pursuing **Actuarial Science degree** with focus on financial modeling and risk analysis
-- 🔐 Exploring **Cybersecurity & Ethical Hacking** - Penetration testing, network security, Kali Linux
-- 🛠 Skilled in **Python, C++, Bash, Django, React, and Fullstack Development**
-- ⚡ Passionate about building **secure, scalable, and modern applications** for African startups
-- 📊 Combining **Actuarial Science** with **Software Development** for fintech solutions
+### **Full-Stack Developer | Security Strategist | STEM Educator**
 
----
+</div>
 
-## 🧑‍💻 Tech Stack & Expertise
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img 
+        src="https://valentinoachira.site/images/profile.jpg" 
+        width="250" 
+        alt="Valentino Achira" 
+        style="border-radius: 16px;" 
+      />
+    </td>
+    <td align="left" width="67%">
+       <h3>⚡ About Me</h3> 
+      <p>
+        I'm a <b>multi-disciplinary developer and security strategist</b> based in Nairobi, Kenya. 
+        My work exists at the intersection of <i>technical precision</i> and <i>educational impact</i>. 
+        I build resilient systems that don't just function—they thrive.
+      </p>
+      <p>
+        With a foundation in full-stack engineering and a rigorous focus on <b>cybersecurity</b>, 
+        I'm dedicated to bridging the digital divide through STEM curriculum design and technical mentorship.
+      </p>
+      <p>
+        Beyond the screen, I empower the next generation of technologists. 
+        Always building, always securing, always teaching. 
+        <img 
+          src="https://i.pinimg.com/originals/58/2c/e3/582ce3b536fd17c8edb9e7d50e354b1e.gif" 
+          width="25" 
+          alt="spark gif" 
+        />
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Python Development, Data Analysis, Automation  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) Algorithmic Problem Solving  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) Linux Scripting, Automation  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) Frontend Development, React  
+<div align="center">
 
-**Frameworks & Tools:**  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) Backend Development, REST APIs  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) Microservices  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) Modern UI Development  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) Server-side JavaScript  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) Kali Linux, System Administration  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Version Control, CI/CD  
+## 🛠️ Tech Stack
 
-**Data Science & Analysis:**  
-`NumPy` | `Pandas` | Statistical Modeling | Risk Analysis
+<h3 align="center">Frontend</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
 
----
+<h3 align="center">Backend & Database</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+</table>
 
-## 📌 Featured Projects
+<h3 align="center">Security & Tools</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux" />
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/373845/metasploit.svg" width="48" height="48" alt="Metasploit" />
+      <br>Metasploit
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
-### 🔹 [Modern Personal Portfolio Website](https://github.com/valentino-scott?tab=repositories)
-A responsive portfolio website with dark/light theme toggle, smooth animations, and offline-ready PWA features. Built with **HTML5, CSS3, and JavaScript**.
+<h3 align="center">Core Expertise</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-4edea3?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=4edea3" />
+  <img src="https://img.shields.io/badge/STEM%20Education-4edea3?style=for-the-badge&logo=googleclassroom&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-000000?style=for-the-badge&logo=amazonaws&logoColor=4edea3" />
+  <img src="https://img.shields.io/badge/Pen%20Testing-4edea3?style=for-the-badge&logo=burpsuite&logoColor=black" />
+</p>
 
-### 🔹 [WiFi Billing System with M-Pesa Integration](https://github.com/valentino-scott?tab=repositories)
-Complete billing solution for Kenyan hotspots: **Django backend** + hostapd + **M-Pesa API** integration for automatic payments and access control.
+</div>
 
-### 🔹 [TradingView Market Predictor](https://github.com/valentino-scott?tab=repositories)
-**Python-based** trading signal generator using technical analysis and machine learning. Integrates with TradingView for real-time market data.
+<div align="center">
 
-### 🔹 [Actuarial Risk Calculator](https://github.com/valentino-scott?tab=repositories)
-Open-source tools for **actuarial calculations**: mortality tables, premium calculations, and risk assessment models in Python.
-
----
-
-## 📊 Current Focus
-- 🏗 Building a **Kenyan FinTech** platform for micro-insurance
-- 📚 Learning **Advanced Penetration Testing** (OSCP prep)
-- 🤝 Open to collaborating on **African tech startups** and **open source projects**
-
----
-
-## 🌐 Connect With Me
-- 📧 Email: **[valentinoachira@gmail.com](mailto:valentinoachira@gmail.com)** (Update with your real email!)
-- 💼 LinkedIn: [linkedin.com/in/valentinoachira](https://linkedin.com/in/valentinoachira) (Create one if you don't have it!)
-- 🐦 Twitter/X: [@valentinoachira](https://twitter.com/valentinoachira)
-- 📝 Blog: [valentinoachira.dev](https://valentino.dev) (Consider starting a dev blog!)
-- 🎵 TikTok: [@valentinoachira](https://www.tiktok.com/@valentinoachira)
-
----
-
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valentino-scott&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Valentino's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentino-scott&layout=compact&langs_count=8&theme=tokyonight" alt="Valentino's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=valentino-scott&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=4edea3&text_color=c9d1d9&title_color=4edea3" alt="Valentino's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentino-scott&theme=tokyonight" alt="Valentino's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentino-scott&theme=dark&background=0d1117&hide_border=true&stroke=4edea3&ring=4edea3&fire=4edea3&currStreakLabel=4edea3" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentino-scott&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=4edea3&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
-## 🏆 GitHub Profile Trophy
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=valentino-scott&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
----
+<h3 align="center">
+  Connect With Me 
+  <img src="https://i.pinimg.com/originals/56/71/67/5671673fd36bb627bc65b4a8da9db71c.gif" alt="sparkle" width="20" />
+</h3>
 
-### 📌 Quick Links to My Work
-- 🔗 **All Repositories:** [github.com/valentino-scott?tab=repositories](https://github.com/valentino-scott?tab=repositories)
-- ⭐ **Most Starred:** [github.com/valentino-scott?tab=stars](https://github.com/valentino-scott?tab=stars)
-- 📜 **Open Source Contributions:** Coming Soon!
+<p align="center">
+  <a href="https://valentinoachira.site">
+    <img src="https://img.shields.io/badge/Website-4edea3?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" />
+  </a>
+  <a href="https://github.com/valentino-scott">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=4edea3" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/valentinoachira">
+    <img src="https://img.shields.io/badge/LinkedIn-4edea3?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/valentinoachira">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=4edea3" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/valentinoachira">
+    <img src="https://img.shields.io/badge/Instagram-4edea3?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@valentinoachira">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=4edea3" alt="YouTube" />
+  </a>
+  <a href="https://medium.com/@valentinoachira">
+    <img src="https://img.shields.io/badge/Medium-4edea3?style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
+  </a>
+  <a href="https://dev.to/valentinoachira">
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=4edea3" alt="Dev.to" />
+  </a>
+  <a href="https://stackoverflow.com/users/valentinoachira">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-4edea3?style=for-the-badge&logo=stackoverflow&logoColor=black" alt="Stack Overflow" />
+  </a>
+  <a href="mailto:valentinoachira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=4edea3" alt="Email" />
+  </a>
+</p>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=valentino-scott&color=4edea3&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
-✨ *"Code. Secure. Create."* — Building secure solutions for Africa's digital future.
+<br>
 
----
+<div align="center">
+  <img src="https://i.pinimg.com/originals/29/9b/56/299b568340339577167333011388bcb7.gif" width="40"/> 
+  <i>Building the future of the web and securing it, one byte at a time.</i> 
+  <img src="https://i.pinimg.com/originals/b1/16/65/b11665024465b911452b24dfee5fd8f6.gif" width="40"/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=valentino-scott&color=blueviolet)
+<div align="center">
+  <br>
+  <sub>📍 Based in Nairobi, Kenya | 🌍 Working globally | 🟢 Available for opportunities</sub>
+</div>
