@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://valentinoachira.site/images/github-banner.png" alt="Valentino Achira Banner" />
+  <img src="github-banner.png" alt="Valentino Achira Banner" />
 </p>
 
 <div align="center">
@@ -34,11 +34,6 @@
       <p>
         Beyond the screen, I empower the next generation of technologists. 
         Always building, always securing, always teaching. 
-        <img 
-          src="https://i.pinimg.com/originals/58/2c/e3/582ce3b536fd17c8edb9e7d50e354b1e.gif" 
-          width="25" 
-          alt="spark gif" 
-        />
       </p>
     </td>
   </tr>
