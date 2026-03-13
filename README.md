@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Valentino Achira Banner" />
+  <img src="profile-banner.jpg" alt="Valentino Achira Banner" />
 </p>
 
 <div align="center">
