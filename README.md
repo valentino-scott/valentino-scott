@@ -123,10 +123,6 @@
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/373845/metasploit.svg" width="48" height="48" alt="Metasploit" />
-      <br>Metasploit
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
