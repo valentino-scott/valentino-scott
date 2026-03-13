@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.jpg" alt="Valentino Achira Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4EDEA3&center=true&vCenter=true&width=800&lines=Valentino+Achira;Full-Stack+Developer;Security+Strategist;STEM+Educator" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -13,12 +13,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img 
-        src="https://valentinoachira.site/images/profile.jpg" 
-        width="250" 
-        alt="Valentino Achira" 
-        style="border-radius: 16px;" 
-      />
+     <img src="https://api.dicebear.com/7.x/identicon/svg?seed=valentino-scott&backgroundColor=0d1117&primaryColor=4edea3" width="250" alt="Valentino Achira" style="border-radius: 16px;" />
     </td>
     <td align="left" width="67%">
        <h3>⚡ About Me</h3> 
